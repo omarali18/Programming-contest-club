@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Omar ali",
+        "id": 181400020,
+        "role": "Student",
+        "age": 25,
+        "email": "omarali@gmril.com",
+        "department": "CSE",
+        "img": "https://img.freepik.com/free-photo/front-view-male-student-wearing-black-backpack-holding-copybooks-files-blue-wall_140725-42636.jpg?size=626&ext=jpg",
+        "entryFee": 100
+    },
+    {
+        "name": "Tamanna Akter",
+        "id": 181400028,
+        "role": "Student",
+        "age": 25,
+        "email": "tamannaakter@gmril.com",
+        "department": "CSE",
+        "img": "https://img.freepik.com/free-photo/female-student-with-books-paperworks_1258-48204.jpg?size=626&ext=jpg",
+        "entryFee": 50
+    },
+    {
+        "name": "Khurshed Alam",
+        "id": 181400019,
+        "role": "Student",
+        "age": 30,
+        "email": "khurshedalam@gmril.com",
+        "department": "CSE",
+        "img": "https://media.istockphoto.com/photos/handsome-afro-student-posing-on-bookshelves-background-picture-id1171062918?k=20&m=1171062918&s=612x612&w=0&h=I6djuMs92BCgJaBv5iIsPALt2oZ8mYQU7ttF1hmhPkE=",
+        "entryFee": 100
+    },
+    {
+        "name": "Shagor Hasan",
+        "id": 181400027,
+        "role": "Student",
+        "age": 28,
+        "email": "shagorhasan@gmril.com",
+        "department": "CSE",
+        "img": "https://image.freepik.com/free-photo/education-handsome-male-student-with-headphones-backpack-using-smartphone_1258-23917.jpg",
+        "entryFee": 50
+    },
+    {
+        "name": "Bpasha Akter",
+        "id": 181400049,
+        "role": "Student",
+        "age": 25,
+        "email": "bpashaakter@gmril.com",
+        "department": "CSE",
+        "img": "https://purepng.com/public/uploads/large/purepng.com-female-studentstudenteducationalinstitutionstudentsuniversity-studentschoolfemale-student-142152692239821ad6.png",
+        "entryFee": 100
+    },
+    {
+        "name": "Shorna Saha",
+        "id": 171400045,
+        "role": "Student",
+        "age": 25,
+        "email": "shornasaha@gmril.com",
+        "department": "CSE",
+        "img": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX6697609.jpg",
+        "entryFee": 50
+    },
+    {
+        "name": "Azmir Hosain",
+        "id": 181400032,
+        "role": "Student",
+        "age": 20,
+        "email": "azmirhosain@gmril.com",
+        "department": "CSE",
+        "img": "https://img.freepik.com/free-photo/front-view-male-student-red-t-shirt-wearing-backpack-black-sterile-mask-holding-copybooks-blue-background_140725-40786.jpg?size=626&ext=jpg",
+        "entryFee": 200
+    },
+    {
+        "name": "Sumaiya Islam",
+        "id": 1814000102,
+        "role": "Student",
+        "age": 28,
+        "email": "sumaiyaislam@gmril.com",
+        "department": "CSE",
+        "img": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX9926358.jpg",
+        "entryFee": 50
+    },
+    {
+        "name": "Taimum Islam",
+        "id": 181400022,
+        "role": "Student",
+        "age": 25,
+        "email": "taimumislam@gmril.com",
+        "department": "CSE",
+        "img": "https://image.freepik.com/fotos-gratis/jovem-estudante-do-sexo-masculino-de-vista-frontal-em-t-shirt-branca-usando-mascara-preta-e-segurando-arquivos-amarelos-sorrindo-sobre-fundo-azul-claro_140725-41144.jpg",
+        "entryFee": 100
+    },
+    {
+        "name": "Moumdar Olin",
+        "id": 181400018,
+        "role": "Student",
+        "age": 25,
+        "email": "moumdarolin@gmril.com",
+        "department": "CSE",
+        "img": "https://s35691.pcdn.co/wp-content/uploads/2017/04/iStock-492655144.170410.jpg",
+        "entryFee": 100
+    },
+    {
+        "name": "Shimanta Bowmick",
+        "id": 181400002,
+        "role": "Student",
+        "age": 25,
+        "email": "shimantabowmick@gmril.com",
+        "department": "CSE",
+        "img": "https://static.toiimg.com/photo/78037458.cms",
+        "entryFee": 50
+    },
+    {
+        "name": "Nur Hosain",
+        "id": 181400007,
+        "role": "Student",
+        "age": 30,
+        "email": "nurhosain@gmril.com",
+        "department": "CSE",
+        "img": "https://c8.alamy.com/comp/DWTAB6/a-boy-studying-in-the-library-DWTAB6.jpg",
+        "entryFee": 100
+    },
+    {
+        "name": "Omar Faruk",
+        "id": 181400012,
+        "role": "Student",
+        "age": 28,
+        "email": "omarfaruk@gmril.com",
+        "department": "CSE",
+        "img": "https://c8.alamy.com/comp/DWTAB6/a-boy-studying-in-the-library-DWTAB6.jpg",
+        "entryFee": 50
+    },
+    {
+        "name": "Rashedul Islam",
+        "id": 181400001,
+        "role": "Student",
+        "age": 25,
+        "email": "rashedulislam@gmril.com",
+        "department": "CSE",
+        "img": "https://www.bankrate.com/2017/07/27113211/male-student-holding-textbooks-getty_573x300.jpg",
+        "entryFee": 100
+    },
+    {
+        "name": "Maimuna Nishad",
+        "id": 171400010,
+        "role": "Student",
+        "age": 25,
+        "email": "maimunanishad@gmril.com",
+        "department": "CSE",
+        "img": "https://images.pexels.com/photos/3762800/pexels-photo-3762800.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "entryFee": 50
+    },
+    {
+        "name": "Nusrat Jahan",
+        "id": 181400015,
+        "role": "Student",
+        "age": 20,
+        "email": "nusratjahan@gmril.com",
+        "department": "CSE",
+        "img": "https://lh3.googleusercontent.com/proxy/-0jp9guOSFAPE2QKylr2FOT_vtadV9GACSjbEsq6HvCAOlfsphN9XUT3UxRU6yzGJ1ALQEMc-3SyD-RhfOnejyNPqXqeZqSCDRVNn3Pyxh4uOUI",
+        "entryFee": 200
+    },
+    {
+        "name": "Suraiya Khan",
+        "id": 1814000105,
+        "role": "Student",
+        "age": 28,
+        "email": "suraiyakhan@gmril.com",
+        "department": "CSE",
+        "img": "https://image.shutterstock.com/image-photo/stock-photo-high-school-student-taking-notes-while-wearing-face-mask-due-to-coronavirus-emergency-young-woman-250nw-1821464753.jpg",
+        "entryFee": 50
+    },
+    {
+        "name": "Komola Khatun",
+        "id": 181400050,
+        "role": "Student",
+        "age": 25,
+        "email": "komolakhatun@gmril.com",
+        "department": "CSE",
+        "img": "vippng.com/png/detail/47-477976_student-girl-college-student.png",
+        "entryFee": 100
+    }
+]
