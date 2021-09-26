@@ -5,14 +5,17 @@
     width: 70%;
     margin: 0px auto;
 }
+/* paraent div design  */
 .header div{
     color: white;
     padding-top: 20px;
     margin-top: 0;
 }
+/* club name design  */
 .club{
     color: #b8eb70;
 }
+/* 3 child design  */
 .header div h1{
     margin: 0;
 }
