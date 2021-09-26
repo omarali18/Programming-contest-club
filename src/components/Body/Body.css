@@ -8,3 +8,15 @@
     grid-gap: 30px;
     margin:10px 40px;
 }
+@media only screen and (max-width: 1000px){
+    .competitor-container{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }
+    .competitor-side{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 30px;
+        margin:10px 40px;
+    }
+}

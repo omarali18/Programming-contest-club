@@ -11,12 +11,12 @@ const Competitors = (props) => {
             </div>
             <div className="competitor-detail">
                 <h2>Name: {name}</h2>
-                <p>ID: {id}</p>
-                <p>Role: {role}</p>
-                <p>Department: {department}</p>
-                <p>Email: {email}</p>
-                <p>Age: {age}</p>
-                <p>EntryFee: {entryFee}</p>
+                <p><span>ID:</span> {id}</p>
+                <p><span>Role:</span> {role}</p>
+                <p><span>Department:</span> {department}</p>
+                <p><span>Email:</span> {email}</p>
+                <p><span>Age:</span> {age}</p>
+                <p><span>EntryFee:</span> {entryFee}</p>
                 <button onClick={() => props.participateBtn(props.competitor)}>participate now <i className="fas fa-arrow-circle-right"></i></button>
             </div>
 

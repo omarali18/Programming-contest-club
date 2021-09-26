@@ -4,6 +4,8 @@
     padding-left: 15px;
     margin-right: 20%;
     background-color: white;
+    position: fixed;
+    width: 350px;
 }
 .participate span{
     color: olivedrab;

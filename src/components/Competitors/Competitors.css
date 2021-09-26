@@ -25,6 +25,10 @@
     justify-content: center;
     align-items: center;
     line-height: 0%;
+    font-size: 17px;
+}
+.competitor-detail span{
+    font-weight: bold;
 }
 .competitor-detail button{
     background-color: #FF428D;
