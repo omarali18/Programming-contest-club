@@ -3,7 +3,6 @@ import "./Competitors.css"
 
 const Competitors = (props) => {
     const { name, age, role, id, img, email, entryFee, department } = props.competitor
-    // console.log(props);
     return (
         <div className="competitor-cart">
 

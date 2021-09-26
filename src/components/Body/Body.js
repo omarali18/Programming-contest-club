@@ -18,8 +18,8 @@ const Body = () => {
     let filterPersons = []
     const participateBtn = person => {
         // filter a single person only songle person added 
-        const omar = persons.filter(man => man === person)
-        if (omar.length === 0) {
+        const filterPerson = persons.filter(man => man === person)
+        if (filterPerson.length === 0) {
             addPersons.push(...persons, person)
             setPersons(addPersons);
         }
@@ -46,7 +46,6 @@ const Body = () => {
                 </div>
                 {/* add contest student  */}
                 <div className="card-side">
-                    {/* <h2><i className="fas fa-user"></i> Student added {persons.length}</h2> */}
 
                     <AddStudent person={persons} />
 
