@@ -3,6 +3,7 @@ import "./Competitors.css"
 
 const Competitors = (props) => {
     const { name, age, role, id, img, email, entryFee, department } = props.competitor
+    // console.log(props);
     return (
         <div className="competitor-cart">
 
@@ -17,7 +18,7 @@ const Competitors = (props) => {
                 <p>Email: {email}</p>
                 <p>Age: {age}</p>
                 <p>EntryFee: {entryFee}</p>
-                <button>participate now <i className="fas fa-arrow-circle-right"></i></button>
+                <button onClick={() => props.participateBtn(props.competitor)}>participate now <i className="fas fa-arrow-circle-right"></i></button>
             </div>
 
         </div>
