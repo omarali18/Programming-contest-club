@@ -1,9 +1,39 @@
 
 
-.card{
-    background-color: white;
-    border: 3px solid tomato;
+
+.competitor-cart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    background-color: lightsteelblue;
+    border-radius: 10px;
+    /* border: 1px solid salmon; */
+}
+
+.competitor-img img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 .competitor-detail{
+    display: flex;
     /* color: white; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 0%;
+}
+.competitor-detail button{
+    background-color: #FF428D;
+    width: 100%;
+    line-height: 40px;
+    font-size: 25px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.competitor-detail button i{
+    font-size: 25px;
+    color: white;
 }
