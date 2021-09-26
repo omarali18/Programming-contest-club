@@ -1,0 +1,10 @@
+.participate{
+    margin: 10px 0;
+    padding: 15px 0;
+    padding-left: 15px;
+    margin-right: 20%;
+    background-color: white;
+}
+.participate span{
+    color: olivedrab;
+}

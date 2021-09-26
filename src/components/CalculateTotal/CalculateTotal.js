@@ -1,19 +1,10 @@
 import React from 'react';
+import "./CalculateTotal.css"
 
 const CalculateTotal = (props) => {
-    const names = props.name
-    // console.log(props.name, "omar");
-    let nameIs
-    let i = 0
-    i++
-    /*  for (const name of names) {
-         console.log(name);
-         nameIs = name
-     } */
-
     return (
         <div>
-            <ul>
+            <ul className="list">
                 <li>{props.name}</li>
             </ul>
         </div>

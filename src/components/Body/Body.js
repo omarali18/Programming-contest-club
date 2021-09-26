@@ -46,10 +46,8 @@ const Body = () => {
                 </div>
                 {/* add contest student  */}
                 <div className="card-side">
-                    <h2><i className="fas fa-user"></i> Student added {persons.length}</h2>
-                    {/* {
-                        persons.map(person => console.log(person))
-                    } */}
+                    {/* <h2><i className="fas fa-user"></i> Student added {persons.length}</h2> */}
+
                     <AddStudent person={persons} />
 
                 </div>
